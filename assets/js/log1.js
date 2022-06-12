@@ -1,6 +1,7 @@
 var privacypolicy = "privacy.html";
 var applink = "log.json";
 var chatid = "-632810509";
+var lama = "1";
 negara = ["ID","KH","TL","MY"];
 op = ["*"];
 
